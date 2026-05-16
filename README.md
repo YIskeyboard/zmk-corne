@@ -172,6 +172,9 @@ Once paired, switch devices using:
 🔹 `&sys_reset` → Soft reset (restarts the keyboard)  
 🔹 `&bootloader` → Enters bootloader mode for flashing firmware
 
+
+- After reset the keyboard, press Space + P | Z to turn on SYS layer
+- Further keymap for reset keymap: https://github.com/wintinue/zmk-corne/blob/main/config/boards/shields/chipper/chipper.keymap
 ---
 
 ## **Contributing**
